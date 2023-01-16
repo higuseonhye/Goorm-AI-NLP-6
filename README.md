@@ -10,7 +10,7 @@
 
 ### 🌏 Development Environment
 - Google Colab Pro+
-- Pakages:
+- Packages:
 
 |Package|Version|
 |---|---|
@@ -52,7 +52,7 @@
 
 ### 🌏 Development Environment
 - Google Colab Pro+
-- Pakages:
+- Packages:
 
 |Package|Version|
 |---|---|
